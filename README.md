@@ -11,3 +11,5 @@ ESP device to connect.
 6.Enter the text message in the input box and click the “send” button.
 
 ESP32 receives the message from the mobile and convert it into morce code then convert it into light signal using LED.
+micrppython is used for programming.
+i used thonny IDE for run the program.
